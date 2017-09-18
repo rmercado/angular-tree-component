@@ -1,7 +1,5 @@
-dist
 doc
 typings
-node_modules
 example
 *webpack*conf*.js
 *karma*.js
